@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+     <script src="script.js"></script>
+
+<h1>Car picker decision maker</h1> 
+
+<div class="title">
+    <h2>What is your budget?</h2>
+</div>
+
+</head>
+<body>
+   <div class="image">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhlrcRLx-CMBacvd0wvlUmYKyHBsX6aRBWA&s">  
+    </div>
+
+   <div class="option">
+   <button onclick="selectOption('price', 'under10k')">Under 10K</button>
+<button onclick="selectOption('price', '10k-20k')">10K-20K</button>
+<button onclick="selectOption('price', 'over20k')">Over 20K</button>
+   </div>
+
+   <div class="title1">
+    <h2>What type of fuel would you prefer?</h2>
+</div>
+
+ <div class="image1">
+    <img src="https://s3.amazonaws.com/3ge.shared.assets/things-to-know/subaru/v1/ttk-image-fuel_system_07_01-2.png">  
+    </div>
+
+     <div class="option1">
+    <button onclick="selectOption('fuel', 'gas')">Gas</button>
+<button onclick="selectOption('fuel', 'hybrid')">Hybrid</button>
+<button onclick="selectOption('fuel', 'electric')">Electric</button>
+
+   </div>
+
+   
+   <div class="title2">
+    <h2>What is your car type?</h2>
+</div>
+
+<div class="image2">
+    <img src="https://static.thenounproject.com/png/789287-200.png">  
+    </div>
+
+ <div class="option2">
+   <button onclick="selectOption('type', 'sedan')">Sedan</button>
+<button onclick="selectOption('type', 'suv')">SUV</button>
+<button onclick="selectOption('type', 'truck')">Truck</button>
+<button onclick="selectOption('type', 'coupe')">Coupe</button>
+   </div>
+
+    <div class="submit">
+   <button onclick="getRecommendation()">Discover Your Car</button>
+   </div>
+
+<div id="result"></div>
+
+
+
+</body>
+</html>

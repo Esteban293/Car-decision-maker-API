@@ -1,0 +1,124 @@
+.title {
+  background-color: #100078;
+  text-align: center;
+  color: aliceblue;
+  font-family: "Roboto", sans-serif;
+}
+
+h1{
+    text-align: center;
+   font-family: "Roboto", sans-serif;
+}
+
+.option{
+ display: flex; 
+  justify-content: center; 
+  gap: 10px; 
+  padding-top: 20px; 
+}
+
+.image{
+    display: flex;
+  justify-content: center;
+}
+
+.option button{
+  background-color: #100078;
+  border-radius: 20px;
+  color: aliceblue;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 15px 32px;
+}
+
+.title1{
+  background-color: #100078;
+  text-align: center;
+  color: aliceblue;
+  font-family: "Roboto", sans-serif;
+}
+
+.image1{
+   display: flex;
+  justify-content: center;
+}
+
+.option1{
+  display: flex; 
+  justify-content: center; 
+  gap: 10px; 
+  padding-top: 20px; 
+}
+
+.option1 button{
+   background-color: #100078;
+  border-radius: 20px;
+  color: aliceblue;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 15px 32px;
+}
+
+.title2{
+   background-color: #100078;
+  text-align: center;
+  color: aliceblue;
+  font-family: "Roboto", sans-serif;
+}
+
+.image2{
+    display: flex;
+  justify-content: center;
+}
+
+.option2{
+   display: flex; 
+  justify-content: center; 
+  gap: 10px; 
+  padding-top: 20px; 
+}
+
+.option2 button{
+  background-color: #100078;
+  border-radius: 20px;
+  color: aliceblue;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 15px 32px;
+}
+.submit{
+ display: flex; 
+  justify-content: center; 
+  gap: 10px; 
+  padding-top: 20px; 
+}
+.submit button{
+   background-color: #6149ff;
+  border-radius: 20px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 15px 32px;
+}
+
+#result {
+ text-align: center;
+  padding-top: 20px; 
+  font-size: 20px;
+  background-color: #000300;
+   color: aliceblue;
+   padding: 30px;
+    border-radius: 20px;
+}

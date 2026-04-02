@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "model": "Honda Civic",
+    "priceRange": "under10k",
+    "fuelType": "gas",
+    "carType": "sedan"
+  },
+  {
+    "id": 2,
+    "model": "Toyota Prius",
+    "priceRange": "under10k",
+    "fuelType": "hybrid",
+    "carType": "sedan"
+  },
+  {
+    "id": 3,
+    "model": "Nissan Leaf",
+    "priceRange": "under10k",
+    "fuelType": "electric",
+    "carType": "sedan"
+  },
+  {
+    "id": 4,
+    "model": "Ford Escape",
+    "priceRange": "under10k",
+    "fuelType": "gas",
+    "carType": "suv"
+  },
+  {
+    "id": 5,
+    "model": "Ford Ranger",
+    "priceRange": "under10k",
+    "fuelType": "gas",
+    "carType": "truck"
+  },
+  {
+    "id": 6,
+    "model": "Ford Mustang",
+    "priceRange": "under10k",
+    "fuelType": "gas",
+    "carType": "coupe"
+  },
+  {
+    "id": 7,
+    "model": "Toyota Camry",
+    "priceRange": "10k-20k",
+    "fuelType": "gas",
+    "carType": "sedan"
+  },
+  {
+    "id": 8,
+    "model": "Honda Accord Hybrid",
+    "priceRange": "10k-20k",
+    "fuelType": "hybrid",
+    "carType": "sedan"
+  },
+  {
+    "id": 9,
+    "model": "Tesla Model S",
+    "priceRange": "10k-20k",
+    "fuelType": "electric",
+    "carType": "sedan"
+  },
+  {
+    "id": 10,
+    "model": "Toyota RAV4",
+    "priceRange": "10k-20k",
+    "fuelType": "gas",
+    "carType": "suv"
+  },
+  {
+    "id": 11,
+    "model": "Toyota Tacoma",
+    "priceRange": "10k-20k",
+    "fuelType": "gas",
+    "carType": "truck"
+  },
+  {
+    "id": 12,
+    "model": "Chevrolet Camaro",
+    "priceRange": "10k-20k",
+    "fuelType": "gas",
+    "carType": "coupe"
+  },
+  {
+    "id": 13,
+    "model": "Tesla Model 3",
+    "priceRange": "over20k",
+    "fuelType": "electric",
+    "carType": "sedan"
+  },
+  {
+    "id": 14,
+    "model": "BMW 3 Series",
+    "priceRange": "over20k",
+    "fuelType": "gas",
+    "carType": "sedan"
+  },
+  {
+    "id": 15,
+    "model": "Toyota Highlander Hybrid",
+    "priceRange": "over20k",
+    "fuelType": "hybrid",
+    "carType": "suv"
+  },
+  {
+    "id": 16,
+    "model": "Tesla Model Y",
+    "priceRange": "over20k",
+    "fuelType": "electric",
+    "carType": "suv"
+  },
+  {
+    "id": 17,
+    "model": "Ford F-150",
+    "priceRange": "over20k",
+    "fuelType": "gas",
+    "carType": "truck"
+  },
+  {
+    "id": 18,
+    "model": "Ford F-150 Lightning",
+    "priceRange": "over20k",
+    "fuelType": "electric",
+    "carType": "truck"
+  },
+  {
+    "id": 19,
+    "model": "Toyota GR86",
+    "priceRange": "over20k",
+    "fuelType": "gas",
+    "carType": "coupe"
+  },
+  {
+    "id": 20,
+    "model": " 1998 Chevrolet S-10",
+    "priceRange": "under10k",
+    "fuelType": "electric",
+    "carType": "truck"
+  },
+  {
+    "id": 22,
+    "model": "2010 Chevrolet Silverado 1500 Hybrid",
+    "priceRange": "under10k",
+    "fuelType": "hybrid",
+    "carType": "truck"
+  },
+  {
+    "id": 23,
+    "model": "2017 Toyota RAV4 Hybrid",
+    "priceRange": "10k-20k",
+    "fuelType": "hybrid",
+    "carType": "suv"
+  },
+  {
+    "id": 24,
+    "model": "2025 Mini Cooper SE",
+    "priceRange": "over20k",
+    "fuelType": "electric",
+    "carType": "coupe"
+  },
+  {
+    "id": 25,
+    "model": "2019 Fiat 500e",
+    "priceRange": "under10k",
+    "fuelType": "electric",
+    "carType": "coupe"
+  },
+  {
+    "id": 26,
+    "model": "Subaru Forester",
+    "priceRange": "over20k",
+    "fuelType": "gas",
+    "carType": "suv"
+  },
+  {
+    "id": 27,
+    "model": "2020 BMW i3",
+    "priceRange": "10k-20k",
+    "fuelType": "electric",
+    "carType": "coupe"
+  },
+  {
+    "id": 28,
+    "model": "2013 Lexus CT 200h",
+    "priceRange": "under10k",
+    "fuelType": "hybrid",
+    "carType": "coupe"
+  },
+  {
+    "id": 29,
+    "model": "2008 Lexus RX 400h",
+    "priceRange": "under10k",
+    "fuelType": "hybrid",
+    "carType": "suv"
+  },
+  {
+    "id": 30,
+    "model": "2022 Ford Maverick Hybrid",
+    "priceRange": "10k-20k",
+    "fuelType": "hybrid",
+    "carType": "truck"
+  },
+  {
+    "id": 31,
+    "model": "2015 BMW ActiveHybrid 3",
+    "priceRange": "10k-20k",
+    "fuelType": "hybrid",
+    "carType": "coupe"
+  },
+  {
+    "id": 32,
+    "model": "2023 Chevrolet Bolt EUV",
+    "priceRange": "10k-20k",
+    "fuelType": "electric",
+    "carType": "suv"
+  },
+  {
+    "id": 33,
+    "model": "2026 Slate Truck",
+    "priceRange": "10k-20k",
+    "fuelType": "electric",
+    "carType": "truck"
+  },
+  {
+    "id": 34,
+    "model": "Toyota Corolla Hybrid",
+    "priceRange": "over20k",
+    "fuelType": "hybrid",
+    "carType": "sedan"
+  },
+  {
+    "id": 35,
+    "model": "Toyota Tundra i-FORCE MAX",
+    "priceRange": "over20k",
+    "fuelType": "hybrid",
+    "carType": "truck"
+  },
+  {
+    "id": 36,
+    "model": "2020 BMW i8",
+    "priceRange": "over20k",
+    "fuelType": "hybrid",
+    "carType": "coupe"
+  }
+
+]
