@@ -3,11 +3,13 @@
   text-align: center;
   color: aliceblue;
   font-family: "Roboto", sans-serif;
+  font-size: 23px;
 }
 
 h1{
     text-align: center;
    font-family: "Roboto", sans-serif;
+   font-size: 36px;
 }
 
 .option{
@@ -39,6 +41,7 @@ h1{
   text-align: center;
   color: aliceblue;
   font-family: "Roboto", sans-serif;
+  font-size: 23px;
 }
 
 .image1{
@@ -70,6 +73,7 @@ h1{
   text-align: center;
   color: aliceblue;
   font-family: "Roboto", sans-serif;
+  font-size: 23px;
 }
 
 .image2{
@@ -116,7 +120,7 @@ h1{
 #result {
  text-align: center;
   padding-top: 20px; 
-  font-size: 20px;
+  font-size: 30px;
   background-color: #000300;
    color: aliceblue;
    padding: 30px;
